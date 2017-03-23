@@ -27,6 +27,6 @@ public class CalculoDeMedia2003 {
         System.out.println("Insira a segunda nota:");
         n2 = console.nextFloat();
         media = (P1*n1) + (P2*n2);
-        System.out.printf ("Nome: %s \n Média: %.2f \n,", nomeAluno,media);
+        System.out.printf ("Nome: %s \n Média: %.2f \n,", nomeAluno,media);  
     }
 }
