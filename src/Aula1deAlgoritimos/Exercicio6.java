@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aula.pkg4;
+package Aula1deAlgoritimos;
 
 import java.util.Scanner;
 

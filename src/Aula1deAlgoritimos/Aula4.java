@@ -1,7 +1,7 @@
 /*
  * Fon 
  */
-package aula.pkg4;
+package Aula1deAlgoritimos;
 
 /**
  *

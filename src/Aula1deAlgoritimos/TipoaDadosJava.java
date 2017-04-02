@@ -1,7 +1,7 @@
 /*
  * Aqui está tudo que foi feito na 4 aula de algoritomos
  */
-package aula.pkg4;
+package Aula1deAlgoritimos;
 
 import java.util.Scanner;
 
